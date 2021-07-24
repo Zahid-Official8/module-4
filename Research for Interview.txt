@@ -1,0 +1,40 @@
+
+Research:
+
+1. What is Git Clone and How to Clone a Repository in Git?
+2. What is Font and Why it use in Web Design / Importance of font in Web design?
+3. How many types of gradients are there in CSS?
+4. What is the purpose of section tag in HTML5?
+5. 
+
+
+Answer:
+
+1. git clone is primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location. The original repository can be located on the local filesystem or on remote machine accessible supported protocols. The git clone command copies an existing Git repository.
+
+2. Web fonts can help you define the hierarchy of your content in two ways: size and color. The bigger the font is, the most attractive it will be; second biggest, second most attractive, and so on. This means that you have your viewers read your information from most important to least important just by using font sizes.
+
+3. You can choose between three types of gradients: linear (created with the linear-gradient() function), radial (created with radial-gradient() ), and conic (created with the conic-gradient() function).
+
+4. The HTML5 <section> tag defines sections in a document, such as chapters, headers, footers, or any other sections of the document. Previously (before HTML5), only way to provide such separation was possible through only <div> tags. section element is a semantic element.
+5. 
+
+
+Research Link:
+
+Git Clone:	https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20primarily%20used,copies%20an%20existing%20Git%20repository.
+
+Fonts:		https://99designs.com/blog/web-digital/choosing-fonts-for-web-design/
+		https://www.websitebuilderexpert.com/designing-websites/pick-best-font-style-for-website/
+
+Gradient:	https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients
+		https://css-tricks.com/css3-gradients/
+
+Section tag:	https://howtodoinjava.com/html5/html5-section-tag/
+
+
+
+
+
+
+
