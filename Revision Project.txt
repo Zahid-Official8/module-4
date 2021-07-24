@@ -6,7 +6,7 @@ HTML Tag:
 
 HTML Attribute :
 
-1. target="_blank"
+1. target="_blank" 
 
 
 
