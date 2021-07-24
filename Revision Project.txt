@@ -1,10 +1,13 @@
+HTML Tag:
+
+1. footer
+
+
+
 HTML Attribute :
 
 1. target="_blank"
-2. 
-3. 
-4. 
-5. 
+
 
 
 CSS Property:
@@ -15,9 +18,9 @@ CSS Property:
 4. text-decoration:
 5. background-image: linear-gradient()
 6. background-position: 
-7. 
-8. 
-9. 
+7. box-shadow:
+8. border-image: linear-gradient()
+9. border-image-slice:
 10.
 
 
@@ -29,9 +32,9 @@ CSS Value:
 4. text-decoration: none;
 5. background-image: linear-gradient( 45deg , lightSalmon , tomato);
 6. background-position: right;
-7. 
-8. 
-9. 
+7. box-shadow: 10px 10px 40px gray;
+8. border-image: linear-gradient(180deg ,lightSalmon , tomato);
+9. border-image-slice: 1;
 10.
 
 
@@ -49,6 +52,8 @@ Google Fonts এমন একটি ওয়েবসাইট যেখানে 
 
 gradient অনেকভাবেই দেয়া যায় তার মধ্যে একটি পদ্ধতি হলো background-image এর মাধ্যমে দেয়া। এক্ষেত্রে ভ্যালুতে linear-gradient() লিখে তার মধ্যে ২/৩ টা ভ্যালু দিবে। ২টা ভ্যলু হবে দুই রকমের কালারের আর আরেকটা ভ্যালু হবে কোনদিকে gradient হবে সেটা ডিফাইন করতে , এই ভ্যালুটা অপশনাল যদি প্রয়োজন হয় তাহলে ইউজ করবে। তবে এইভ্যালু যদি ইউজ করার প্রয়োজন হয় তাহলে এটা কালার ভ্যালু দুটোর আগে ইউজ করতে হবে। প্রত্যেকটা ভ্যালুর মাঝে , কমা ইউজ করাটা কিন্তু আবশ্যক।
 
+box-shadow তে ৪টা ভ্যালু ইউজ হয়। প্রথমটা ডানে বা বামের জন্য, দ্বিতীয়টা উপরে বা নিচের জন্য, তৃতীয়টা কতটা ছাড়বে তার জন্য , চতুর্থটা কি কালার হবে সেটা।
+border এ gradient ইউজ করতে চাইলে তাতে border-image প্রোপার্টি ইউজ করা হয়।  এক্ষেত্রে ভ্যালুতে linear-gradient() লিখে তার মধ্যে ২/৩ টা ভ্যালু দিবে। কিন্তু শুধু এতটুকু লিখলেই কাজ করবে না। এক্ষেত্রে 9. border-image-slice: নামে আরেকটা প্রোপার্টি ইউজ করতে হবে এবং তাতে একটা ভ্যলু সেট করে দিতে হবে।
 
 
 
