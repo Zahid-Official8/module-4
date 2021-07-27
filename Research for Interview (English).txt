@@ -1,11 +1,10 @@
-
-Research:
+Question:
 
 1. What is Git Clone and How to Clone a Repository in Git?
 2. What is Font and Why it use in Web Design / Importance of font in Web design?
 3. How many types of gradients are there in CSS?
 4. What is the purpose of section tag in HTML5?
-5. 
+
 
 
 Answer:
@@ -17,13 +16,12 @@ Answer:
 3. You can choose between three types of gradients: linear (created with the linear-gradient() function), radial (created with radial-gradient() ), and conic (created with the conic-gradient() function).
 
 4. The HTML5 <section> tag defines sections in a document, such as chapters, headers, footers, or any other sections of the document. Previously (before HTML5), only way to provide such separation was possible through only <div> tags. section element is a semantic element.
-5. 
 
 
-Research Link:
 
-Git Clone:	https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20primarily%20used,copies%20an%20existing%20Git%20repository.
+Resourse Link:
 
+Git Clone:	https://cutt.ly/vQyp94X
 Fonts:		https://99designs.com/blog/web-digital/choosing-fonts-for-web-design/
 		https://www.websitebuilderexpert.com/designing-websites/pick-best-font-style-for-website/
 
@@ -31,10 +29,6 @@ Gradient:	https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_
 		https://css-tricks.com/css3-gradients/
 
 Section tag:	https://howtodoinjava.com/html5/html5-section-tag/
-
-
-
-
 
 
 

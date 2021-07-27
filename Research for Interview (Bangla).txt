@@ -1,0 +1,30 @@
+প্রশ্নঃ
+
+১. ওয়েব ডিজাইনরা কেন ফন্ট ইউজ করে?
+২.  Css Gradients কি?
+
+
+
+উত্তরঃ
+
+১. ফন্ট বা অক্ষর ওয়েব ডিজাইনের ক্ষেত্রে খুবই গুরুত্বপূর্ণ একটি বিষয়। বিশেষ করে যারা ফ্রন্ট- এন্ড ডেভেলপার, তারা ফন্টের যথাযথ ব্যবহারকে বেশ গুরুত্বের সাথে দেখে থাকেন। কারণ, ফন্ট এমন একটি উপাদান, যা আপনার ডিজাইনকে ব্যবহারকারীর কাছে আরো ফুটিয়ে তোলে।ওয়েবসাইট ডিজাইনে ফন্ট ব্যবহারের ভালো ধারণা না থাকলে আপনি কখনোই একজন ভালো মানের ডিজাইনার হতে পারবেন না।
+
+২. দুই বা ততোধিক রঙের পাসাপাসি অবস্থানের মাধ্যমে গ্রাডিয়েন্ট তৈরি করা হয়। সিএসএস 3.0 সংস্করণের gradient ব্যাবহার করে কোন এইচটিএমএল এলিমেন্টের পৃষ্ঠদেশ বা background এ gradient তৈরি করা যায়।
+
+
+
+রিসোর্সের লিংকঃ
+
+Font:		https://cutt.ly/mQyshGF
+		https://cutt.ly/aQyslxG
+		https://regularshow.ru/bn/internet/osnovy-veb-tipografiki-o-kolichestve-i-kachestve-shriftov-v.html
+		https://cutt.ly/mQysPV8
+		https://cutt.ly/tQysDHS
+
+Gradients:	https://websschool.com/css/css3-gradients.html
+		https://www.webcoachbd.com/css-tutorials/css-background?start=1
+		https://anusoron.blogspot.com/2019/04/blog-post_21.html
+
+
+
+
